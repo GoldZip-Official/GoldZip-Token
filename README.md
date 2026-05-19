@@ -1,8 +1,8 @@
-# HKGX Token - Gold-Backed Digital Asset
+# GoldZip Token - Gold-Backed Digital Asset
 
 ## 🌟 Overview
 
-HKGX Token is a secure, transparent, and feature-rich ERC20 token designed to represent gold-backed digital assets on the blockchain. Built with enterprise-grade security standards and comprehensive access controls, HKGX Token provides a trusted bridge between physical gold assets and the digital economy.
+GoldZip Token is a secure, transparent, and feature-rich ERC20 token designed to represent gold-backed digital assets on the blockchain. Built with enterprise-grade security standards and comprehensive access controls, GoldZip Token provides a trusted bridge between physical gold assets and the digital economy.
 
 ## ✨ Key Features
 
@@ -64,7 +64,7 @@ For regulatory compliance and security:
 ### How Fees Work
 
 1. **Fee Calculation**: Fees are calculated as a percentage of the transfer amount (in basis points)
-   - Example: 1% fee = 100 basis points
+   - Example: 0.01% fee = 1 basis point
    - Maximum fee rate is capped at 100% (10,000 basis points)
 
 2. **Fee Exemptions**:
